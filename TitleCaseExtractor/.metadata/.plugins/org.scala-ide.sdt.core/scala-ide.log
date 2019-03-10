@@ -1,0 +1,68 @@
+2019-03-10 15:38:33,663  WARN [ModalContext] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:38:33,667  WARN [ModalContext] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:38:34,965  WARN [Worker-9] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:38:34,965  WARN [Worker-9] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:39:14,403  WARN [main] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:39:14,410  WARN [main] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:39:16,901  WARN [Worker-1] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:39:16,901  WARN [Worker-1] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:39:17,311  WARN [Java indexing] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:39:17,311  WARN [Java indexing] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:39:23,920  WARN [Worker-8] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:39:23,920  WARN [Worker-8] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:39:39,649  WARN [Worker-1] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:39:39,650  WARN [Worker-1] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:40:00,377  WARN [Worker-8] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:40:00,377  WARN [Worker-8] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:40:01,924 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-03-10 15:40:01,981 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-03-10 15:40:01,981 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-03-10 15:40:01,984 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-03-10 15:40:49,782  WARN [main] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:40:49,783  WARN [main] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:40:49,922  WARN [Worker-1] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:40:49,922  WARN [Worker-1] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:40:51,684  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-03-10 15:40:52,268  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-03-10 15:40:52,479  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-03-10 15:40:55,764  WARN [Worker-9] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:40:55,764  WARN [Worker-9] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:41:10,929  WARN [Worker-6] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:41:10,929  WARN [Worker-6] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:42:10,581  WARN [Worker-1] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:42:10,582  WARN [Worker-1] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:42:36,154  WARN [Worker-3] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:42:36,154  WARN [Worker-3] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:42:51,162  WARN [Worker-7] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:42:51,162  WARN [Worker-7] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:44:26,697  WARN [Worker-9] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:44:26,697  WARN [Worker-9] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:45:06,345  WARN [Worker-9] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:45:06,345  WARN [Worker-9] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:45:14,553 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-03-10 15:45:14,554 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-03-10 15:45:14,554 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-03-10 15:45:16,361  WARN [Worker-6] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:45:16,361  WARN [Worker-6] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:48:39,930  WARN [main] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:48:39,930  WARN [main] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:48:40,040  WARN [Worker-1] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:48:40,040  WARN [Worker-1] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:48:59,035  WARN [Worker-3] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:48:59,035  WARN [Worker-3] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:49:53,253  WARN [Worker-10] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:49:53,253  WARN [Worker-10] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:51:36,778  WARN [Worker-11] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:51:36,779  WARN [Worker-11] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:51:49,330  WARN [Worker-11] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:51:49,330  WARN [Worker-11] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:52:27,668  WARN [Worker-11] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:52:27,669  WARN [Worker-11] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 15:53:34,175  WARN [Worker-13] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 15:53:34,175  WARN [Worker-13] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 17:03:03,874  WARN [Worker-29] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 17:03:03,874  WARN [Worker-29] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 17:03:56,397  WARN [Worker-30] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 17:03:56,397  WARN [Worker-30] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.
+2019-03-10 17:04:10,367  WARN [Worker-30] - ScalaProject - Project TitleCaseExtractor has platform default sourceLevel.
+2019-03-10 17:04:10,367  WARN [Worker-30] - ScalaProject - Project TitleCaseExtractor runs on platform default installation.

@@ -1,0 +1,9 @@
+package org.scalatest.examples.flatspec
+import org.scalatest.Assertions._
+
+import org.scalatest.FlatSpec
+//import org.scalatest.FlatSpec
+
+class UnitTest extends FlatSpec {
+  // tests go here...
+}

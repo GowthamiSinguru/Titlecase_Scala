@@ -1,0 +1,9 @@
+
+object test {
+ def main(args: Array[String]) {
+ var k = ("gowthami is interested in working at healthstarinformatics" match {
+case Titlecase(str) => str
+})
+println(k)
+}
+}
